@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Charles
+- 👋 Hi, I’m Charles, a junior backend developer
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on something cool !
